@@ -37,14 +37,6 @@ Users have to guess a random number between 1 and 10. If the guess is correct, t
 2. Open `game.html` in any web browser.
 3. Start guessing!
 
----
-
-## 📸 Preview
-
-_Add a screenshot of your game here if available_
-
----
-
 ## 📬 Contact
 
 Created by **Syifa Nur Nabila**  
